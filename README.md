@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <img src="https://raw.githubusercontent.com/samirmansi/samirmansi/main/images/hello_samir.gif" alt="Hello" width="60%"/> <br>
-<img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" alt="Cybersecurity Workspace" width="50%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
 <details>
 <p><strong> <summary> Busy coding & Vibing to : </summary> </strong></p>
@@ -39,7 +39,6 @@ class SamirMansi {
     "Languages" : { "Java", "Python" },
     "Specialization" : { "Machine Learning", "Cybersecurity" },
     "Tools" : { "Git", "VS Code" },
-    "Status" : { "Computer Science Student (CDS2) at Alexandria National University" }
+    "Status" : { "Computer Science Student at Egypyt in Alexandria National University" }
   };
 }
-
