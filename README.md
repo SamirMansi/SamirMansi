@@ -49,11 +49,6 @@
 
 ---
 
-## 🖥️ Currently Working On  
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=yourWakaTimeUsername&theme=radical&hide_border=true)  
-*(Shows live coding activity — replace `yourWakaTimeUsername` with your actual one)*  
-
----
 
 ```dart
 // My Skills & Focus
