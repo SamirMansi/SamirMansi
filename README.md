@@ -18,21 +18,15 @@
 ---
 
 ## 👋 Heloo<> I am **Samir Mansi**  
-🎓 Computer Science student at **Alexandria National University** (CDS2)  
-💻 Skilled in **Java**, **Python**, **C++**, **Machine Learning**  
-🛡️ Passionate about **Cybersecurity** — aiming to specialize in the field  
+🎓 Computer Science student at **Alexandria National University in Egypt ** (CDS2)  
 
 ---
 
 ## 🚀 Tools & Technologies  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=flat-square)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-blue?style=flat-square&logo=security&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
